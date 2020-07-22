@@ -6,6 +6,7 @@ namespace J_1
     {
         static void Main(string[] args)
         {
+            //Taghirate jadid
             //int x = 10;
             //int y = x;
             //y++;
