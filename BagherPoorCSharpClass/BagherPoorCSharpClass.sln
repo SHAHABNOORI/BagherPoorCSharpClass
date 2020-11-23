@@ -25,15 +25,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonPattern", "Singlet
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadePattern", "FacadePattern\FacadePattern.csproj", "{AD3AE372-6AB1-4219-9746-883C95F06401}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericListSample", "GenericListSample\GenericListSample.csproj", "{D1095E5E-93E3-4C24-9AEF-2CDC42A37CFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericListSample", "GenericListSample\GenericListSample.csproj", "{D1095E5E-93E3-4C24-9AEF-2CDC42A37CFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericDictionarySample", "GenericDictionarySample\GenericDictionarySample.csproj", "{E953A2CE-06A6-4882-8CF6-9B68B70D58A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericDictionarySample", "GenericDictionarySample\GenericDictionarySample.csproj", "{E953A2CE-06A6-4882-8CF6-9B68B70D58A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericSortedDictionary", "GenericSortedDictionary\GenericSortedDictionary.csproj", "{83EFCEFF-9531-4F62-868C-57E2F4899E54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericSortedDictionary", "GenericSortedDictionary\GenericSortedDictionary.csproj", "{83EFCEFF-9531-4F62-868C-57E2F4899E54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashsetSample", "HashsetSample\HashsetSample.csproj", "{7D8E2EDC-3922-4CFD-AC7D-816DAD0BFD82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashsetSample", "HashsetSample\HashsetSample.csproj", "{7D8E2EDC-3922-4CFD-AC7D-816DAD0BFD82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericSortedList", "GenericSortedList\GenericSortedList.csproj", "{6BE0834B-CD51-4283-8334-FB60F917A541}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericSortedList", "GenericSortedList\GenericSortedList.csproj", "{6BE0834B-CD51-4283-8334-FB60F917A541}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MementoPattern", "MementoPattern\MementoPattern.csproj", "{694C26AD-BA61-4BC1-AF54-A1B4E31EA51F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeArraysSample", "MergeArraysSample\MergeArraysSample.csproj", "{F54DB32B-8A31-40BB-B76E-8084979D3D34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{6BE0834B-CD51-4283-8334-FB60F917A541}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BE0834B-CD51-4283-8334-FB60F917A541}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BE0834B-CD51-4283-8334-FB60F917A541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694C26AD-BA61-4BC1-AF54-A1B4E31EA51F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694C26AD-BA61-4BC1-AF54-A1B4E31EA51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694C26AD-BA61-4BC1-AF54-A1B4E31EA51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694C26AD-BA61-4BC1-AF54-A1B4E31EA51F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F54DB32B-8A31-40BB-B76E-8084979D3D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54DB32B-8A31-40BB-B76E-8084979D3D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54DB32B-8A31-40BB-B76E-8084979D3D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54DB32B-8A31-40BB-B76E-8084979D3D34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
